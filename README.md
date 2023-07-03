@@ -7,8 +7,8 @@ We have uploaded a sample of our dataset of Northern Bobwhite covey call recordi
 ## Code Description
 We have uploaded a trained bobwhite CNN, a .json file outlining the model parameters, the model source code and license. We also include a Jupyter Notebook demonstrating the trained model with an example covey call clip. The Jupyter Notebook outlines how to import the libraries, load the pre-trained model and clips and compute the model output. It also demonstrates plotting a mel-spectrogram on the clip, plotting the output predictions and obtaining the post-processing outputs of time and peak power of each detected covey call.
 
-## Simple Tutorial
-NEW: We have now added a simple tutorial to follow that guides you through two processes:
+## NEW: Simple Tutorial
+We have now added a simple tutorial to follow that guides you through two processes:
   1) Running a pre-trained version of the CNN over your data
   2) Re-training the CNN using new data (including adding in new confusion species calls for data augmentation)
 Download the CoveyCNN.zip file to access the tutorial, data and models!
