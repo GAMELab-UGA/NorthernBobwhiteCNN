@@ -11,4 +11,6 @@ We have uploaded a trained bobwhite CNN, a .json file outlining the model parame
 We have now added a simple tutorial that guides you through two of the main processes of our model:
   1) Running a pre-trained version of the CNN over your data
   2) Re-training the CNN using new data (including adding in new confusion species calls for data augmentation)
+  
 Download the CoveyCNN.zip file to access the tutorial, data and models!
+This tutorial data also includes all of the data we used to train our original model for the manuscript.
