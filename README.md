@@ -1,5 +1,6 @@
 # NorthernBobwhiteCNN
 https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.294
+
 Code and data for training and evaluating a convolutional neural network (CNN) for Northern Bobwhite covey call detection.
 Associated with 'The development of a convolutional neural network for the automatic detection of Northern Bobwhite Colinus virginianus covey calls'
 
