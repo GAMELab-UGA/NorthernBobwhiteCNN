@@ -13,4 +13,5 @@ We have now added a simple tutorial that guides you through two of the main proc
   2) Re-training the CNN using new data (including adding in new confusion species calls for data augmentation)
   
 Download the CoveyCNN.zip file to access the tutorial, data and models!
+
 This tutorial data also includes all of the data we used to train our original model for the manuscript.
